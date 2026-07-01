@@ -45,14 +45,10 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 tvg-id="Alkass6.qa" tvg-name="Alkass 6" group-title="KURDO SPORT",Alkass 6
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="PersianaSport1" tvg-name="Persiana Sport 1" group-title="KURDO SPORT",Persiana Sport 1
-https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="PersianaSport2" tvg-name="Persiana Sport 2" group-title="KURDO SPORT",Persiana Sport 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="PersianaSport3" tvg-name="Persiana Sport 3" group-title="KURDO SPORT",Persiana Sport 3
 https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1 tvg-id="PersianaSport4" tvg-name="Persiana Sport 4" group-title="KURDO SPORT",Persiana Sport 4
-https://pepsi4.abntv.live/hls/psp4.m3u8
 
 -----
 #EXTINF:-1  CUID="10001" tvg-id="ava.news" tvg-name="AVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/AVAMedialogo.jpg" group-title="KRD News" tvg-language="ku" tvg-country="KRD",AVA News

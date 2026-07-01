@@ -9,8 +9,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
 http://217.76.62.187/hls/kids.m3u8
 #EXTINF:-1  CUID="160568" tvg-id="dekanqura" tvg-name="dekan quran " tvg-logo="" group-title="KURDO" , Dekan Quran Alkareem 
 https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
-#EXTINF:-1  CUID="1058668" tvg-id="newmovies" tvg-name="New Movies " tvg-logo="" group-title="KURDO" ,New Movies
-https://cdn.karwan.tv/bnar-movies/index.m3u8
 #EXTINF:-1  CUID="1056888" tvg-id="redtV" tvg-name="red tv" tvg-logo="" group-title="KURDO" ,RED TV
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
 #EXTINF:-1  CUID="1056888" tvg-id="ikurd" tvg-name="ikurd" tvg-logo="" group-title="KURDO" ,ikurd
@@ -19,11 +17,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
 http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 #EXTINF:-1 tvg-id="Barin Family" tvg-name="Barin Family" tvg-logo="" group-title="KURDO" ,Barin Family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
-#EXTINF:-1 tvg-name="Bnar Action" group-title="KURDO",Bnar Action
+#EXTINF:-1 tvg-name="NEW Action" group-title="KURDO",NEW Action
 https://cdn.karwan.tv/bnar-action/index.m3u8
-#EXTINF:-1 tvg-name="Bnar Movies" group-title="KURDO",Bnar Movies
+#EXTINF:-1 tvg-name="NEW Movies" group-title="KURDO",NEW Movies
 https://cdn.karwan.tv/bnar-movies/index.m3u8
-#EXTINF:-1 tvg-name="Bnar Family" group-title="KURDO",Bnar Family
+#EXTINF:-1 tvg-name="NEW Family" group-title="KURDO",NEW Family
 https://cdn.karwan.tv/bnar-family/index.m3u8
 #EXTINF:-1 tvg-name="Barin Movies" group-title="KURDO",Barin Movies
 https://cdn.karwan.tv/barin-movies/index.m3u8
@@ -35,7 +33,28 @@ https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 https://kurdchhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Nûçe TV" group-title="KURDO",Nûçe TV
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-1 tvg-id="Alkass1.qa" tvg-name="Alkass 1" group-title="KURDO SPORT",Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass2.qa" tvg-name="Alkass 2" group-title="KURDO SPORT",Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass3.qa" tvg-name="Alkass 3" group-title="KURDO SPORT",Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass4.qa" tvg-name="Alkass 4" group-title="KURDO SPORT",Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass5.qa" tvg-name="Alkass 5" group-title="KURDO SPORT",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass6.qa" tvg-name="Alkass 6" group-title="KURDO SPORT",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="PersianaSport1" tvg-name="Persiana Sport 1" group-title="KURDO SPORT",Persiana Sport 1
+https://af.ayas.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-id="PersianaSport2" tvg-name="Persiana Sport 2" group-title="KURDO SPORT",Persiana Sport 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="PersianaSport3" tvg-name="Persiana Sport 3" group-title="KURDO SPORT",Persiana Sport 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 tvg-id="PersianaSport4" tvg-name="Persiana Sport 4" group-title="KURDO SPORT",Persiana Sport 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
 
+-----
 #EXTINF:-1  CUID="10001" tvg-id="ava.news" tvg-name="AVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/AVAMedialogo.jpg" group-title="KRD News" tvg-language="ku" tvg-country="KRD",AVA News
 https://ava2.store/upload/ava.m3u8
 #EXTINF:-1  CUID="10002" tvg-id="nrt1.news" tvg-name="NRT" tvg-logo="https://images.ntviraq.com/wene/logo.png" group-title="KRD News" tvg-language="ku" tvg-country="KRD",NRT News

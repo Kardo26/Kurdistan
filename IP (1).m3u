@@ -1,8 +1,41 @@
 #EXTM3U
-#EXTINF:-1  CUID="10568" tvg-id="Shnasport" tvg-name="Shan sport " tvg-logo="" group-title="VIP" , Shna Sport
+#EXTINF:-1  CUID="10568" tvg-id="Shnasport" tvg-name="Shan sport " tvg-logo="" group-title="KURDO" , Shna Sport
 https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
-#EXTINF:-1  CUID="10568" tvg-id="shnafolk" tvg-name="Shan folk " tvg-logo="" group-title="VIP" , Shna folk
+#EXTINF:-1  CUID="7997" tvg-id="shnafolk" tvg-name="Shan folk " tvg-logo="" group-title="KURDO" , Shna folk
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1  CUID="7965697" tvg-id="shnasrood" tvg-name="Shan srood " tvg-logo="" group-title="KURDO" , Shna drood
+https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
+#EXTINF:-1  CUID="87868" tvg-id="onekids" tvg-name="one kids " tvg-logo="" group-title="KURDO" , one kids 
+http://217.76.62.187/hls/kids.m3u8
+#EXTINF:-1  CUID="160568" tvg-id="dekanqura" tvg-name="dekan quran " tvg-logo="" group-title="KURDO" , Dekan Quran Alkareem 
+https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
+#EXTINF:-1  CUID="1058668" tvg-id="newmovies" tvg-name="New Movies " tvg-logo="" group-title="KURDO" ,New Movies
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+#EXTINF:-1  CUID="1056888" tvg-id="redtV" tvg-name="red tv" tvg-logo="" group-title="KURDO" ,RED TV
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1  CUID="1056888" tvg-id="ikurd" tvg-name="ikurd" tvg-logo="" group-title="KURDO" ,ikurd
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+#EXTINF:-1 tvg-id="Barin Quran" tvg-name="Barin Quran" tvg-logo="" group-title="KURDO" ,Barin Quran
+http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
+#EXTINF:-1 tvg-id="Barin Family" tvg-name="Barin Family" tvg-logo="" group-title="KURDO" ,Barin Family
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+#EXTINF:-1 tvg-name="Bnar Action" group-title="KURDO",Bnar Action
+https://cdn.karwan.tv/bnar-action/index.m3u8
+#EXTINF:-1 tvg-name="Bnar Movies" group-title="KURDO",Bnar Movies
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+#EXTINF:-1 tvg-name="Bnar Family" group-title="KURDO",Bnar Family
+https://cdn.karwan.tv/bnar-family/index.m3u8
+#EXTINF:-1 tvg-name="Barin Movies" group-title="KURDO",Barin Movies
+https://cdn.karwan.tv/barin-movies/index.m3u8
+#EXTINF:-1 tvg-name="Spi Sport" group-title="KURDO",Spi Sport
+https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="Infinity TV" group-title="KURDO",Infinity TV
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kurd Channel TV" group-title="KURDO",Kurd Channel TV
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Nûçe TV" group-title="KURDO",Nûçe TV
+https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+
 #EXTINF:-1  CUID="10001" tvg-id="ava.news" tvg-name="AVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/AVAMedialogo.jpg" group-title="KRD News" tvg-language="ku" tvg-country="KRD",AVA News
 https://ava2.store/upload/ava.m3u8
 #EXTINF:-1  CUID="10002" tvg-id="nrt1.news" tvg-name="NRT" tvg-logo="https://images.ntviraq.com/wene/logo.png" group-title="KRD News" tvg-language="ku" tvg-country="KRD",NRT News

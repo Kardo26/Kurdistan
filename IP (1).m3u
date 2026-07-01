@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1  CUID="10568" tvg-id="Shnasport" tvg-name="Shan sport Sport " tvg-logo="" group-title="VIP SPORT" , Shna Sport
+#EXTINF:-1  CUID="10568" tvg-id="Shnasport" tvg-name="Shan sport " tvg-logo="" group-title="VIP" , Shna Sport
 https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
+#EXTINF:-1  CUID="10568" tvg-id="shnafolk" tvg-name="Shan folk " tvg-logo="" group-title="VIP" , Shna folk
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:-1  CUID="10001" tvg-id="ava.news" tvg-name="AVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/AVAMedialogo.jpg" group-title="KRD News" tvg-language="ku" tvg-country="KRD",AVA News
 https://ava2.store/upload/ava.m3u8
 #EXTINF:-1  CUID="10002" tvg-id="nrt1.news" tvg-name="NRT" tvg-logo="https://images.ntviraq.com/wene/logo.png" group-title="KRD News" tvg-language="ku" tvg-country="KRD",NRT News

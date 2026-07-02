@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="KRD", Shna Sport
+https://lbgo.bozztv.com/ssh101/ssh101/shna3kobani/playlist.m3u8
+#EXTINF:-1 group-title="KRD", Shna Folklore
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 group-title="KRD", Shna Srood
+https://lbgo.bozztv.com/ssh101/ssh101/shna12345/chunks.m3u8
+#EXTINF:-1 group-title="KRD", One Kids
+http://217.76.62.187/hls/kids.m3u8
+#EXTINF:-1 group-title="KRD", Dekan Alquran Kareem
+https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u
+#EXTINF:-1 group-title="KRD", New Movies
+8https://cdn.karwan.tv/bnar-movies/index.m3u8
+#EXTINF:-1 group-title="KRD", RED TV
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 group-title="KRD", I KURD
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+#EXTINF:-1 group-title="KRD", GK+
+https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 group-title="KRD", Spi Sport
+https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
